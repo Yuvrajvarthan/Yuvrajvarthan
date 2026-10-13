@@ -10,7 +10,7 @@ I build full-stack and applied-AI projects — Python/FastAPI backends, Next.js/
 
 ## 🔨 Currently
 
-- Building my **final-year major project** with a team of three
+- Leading backend, database and deployment on **[SareeSetu](https://github.com/Akashkonar07/MajorP1)**, my final-year major project — a live store for a real saree shop
 - Contributing to **[OpenStego](https://github.com/syvaidya/openstego)**, an open-source steganography & watermarking tool, as part of my open-source lab
 - Sharpening **DSA** and **JavaScript fundamentals**
 
@@ -20,6 +20,7 @@ I build full-stack and applied-AI projects — Python/FastAPI backends, Next.js/
 
 | Project | What it does | Built with |
 |---|---|---|
+| **[SareeSetu – E-commerce for a real client](https://github.com/Akashkonar07/MajorP1)** · [live](https://vaibhav-laxmi-saree.vercel.app) | Online store + owner admin panel for Vaibhav Laxmi Saree, Navi Mumbai: catalogue, UPI checkout, orders and stock. I lead backend, database, security and deployment in a team of 3 | React · Supabase (PostgreSQL, Auth, RLS) · Tailwind · Vercel |
 | **[Saathi – AI Crop Advisor](https://github.com/Yuvrajvarthan/saathi)** | Recommends suitable crops and fruits from soil nutrients (N, P, K, pH) and weather inputs, using separate models per category | Python · scikit-learn · Streamlit · pandas |
 | **KBA – Knowledge Base AI** <!-- repo is private; add link once public --> | Ingests documents, websites and YouTube videos into a vector store and lets you ask questions over them (RAG) | FastAPI · Next.js · ChromaDB · Gemini |
 | **[OpenStego contribution](https://github.com/Yuvrajvarthan/openstego)** | Working on assigned issues in an established open-source Java project | Java · Git · open-source workflow |
@@ -31,10 +32,10 @@ I build full-stack and applied-AI projects — Python/FastAPI backends, Next.js/
 
 - **Languages:** Python · JavaScript · SQL · HTML/CSS
 - **Backend:** FastAPI · Flask · REST APIs
-- **Frontend:** Next.js · React
+- **Frontend:** React · Next.js · Tailwind CSS
 - **Data & AI:** scikit-learn · pandas · ChromaDB · LLM APIs (Gemini, OpenRouter)
-- **Databases:** MongoDB · SQL
-- **Tools:** Git · GitHub · VS Code
+- **Databases:** PostgreSQL / Supabase · MongoDB
+- **Tools:** Git · GitHub · Vercel · VS Code
 
 ---
 
